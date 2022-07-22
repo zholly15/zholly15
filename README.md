@@ -8,9 +8,9 @@ Recently graduated Software Engineer with experience in Machine Learning, Back-E
 
 *   🌍  I'm based in Seattle, Washington
 *   ✉️  You can contact me at [zholly18@outlook.com](mailto:zholly18@outlook.com)
-*   🧠  I'm learning Unreal Enginer
+*   🧠  I'm learning Unreal Engine
 *   🤝  I'm open to collaborating on C++ or Python projects
-*   ⚡  Currently looking for new opportunities
+*   ⚡  Currently looking for new Career opportunities
 ### Skills
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
