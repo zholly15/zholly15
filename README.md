@@ -1,16 +1,16 @@
 Hi 👋 My name is Zachary Holly
 ==============================
 
-New Grad Software Engineer\`
+Software Engineer\`
 ----------------------------
 
-Recently graduated Software Engineer with experience in Machine Learning, Back-End Development, and Large Scale design. FIRST Robotics mentor, alumni and volunteer.
+Software Engineer with experience in .Net, Back-End Development, and Large Scale design. FIRST Robotics mentor, alumni and volunteer.
 
 *   🌍  I'm based in Seattle, Washington
 *   ✉️  You can contact me at [zholly18@outlook.com](mailto:zholly18@outlook.com)
 *   🧠  I'm learning Unreal Engine
-*   🤝  I'm open to collaborating on C++ or Python projects
-*   ⚡  Currently looking for new Career opportunities
+*   🤝  I'm open to collaborating on C++, Python, or Java projects
+*   ⚡  Currently working as an SDE I and mentoring
 ### Skills
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
